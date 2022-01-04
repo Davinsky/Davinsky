@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davinsky
 - 👀 I’m interested in general backend development and security (though i'm still no good with security)
 - 🌱 I’m currently learning free pascal
-- 💞️ I’m looking to collaborate on basicly anything
+- 💞️ I’m looking to collaborate on basically anything
 - 📫 How to reach me: nebelhansen.david@gmail.com
 
 <!---
